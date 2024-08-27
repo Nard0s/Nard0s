@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **nardosanteneh00@gmail.com**
 
-- ⚡ Fun fact **I am anime fun**
+- ⚡ Fun fact **I am Anime fun**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
