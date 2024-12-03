@@ -1,15 +1,13 @@
 
 <h1 align="center">Hey 👋, It's Nardi</h1>
 <h3 align="center">A computer science student</h3>
-<img align="right" alt="codding" width="400" src="https://i.pinimg.com/736x/1e/e6/54/1ee654f04d664cf6d985c4fd8996a38e.jpg">
+<img align="right" alt="codding" width="400" src="https://i.pinimg.com/736x/69/d0/0f/69d00f855faab118c17721dbf959d837.jpg">
 
 - 🌱 I’m currently learning **Node.js**
 
 - 📫 How to reach me **nardoanteneh00@gmail.com**
 
 - ⚡ Fun fact **I'm Anime fun😊**
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Nard0s&label=Profile%20views&color=0e75b6&style=flat" alt="Nard0s" /> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
