@@ -1,17 +1,16 @@
 
 <h1 align="center">Hey 👋, It's Nardi</h1>
-<h3 align="center">A computer science student</h3>
-<img align="right" alt="codding" width="400" src="https://i.pinimg.com/736x/69/d0/0f/69d00f855faab118c17721dbf959d837.jpg">
+<h2 align="center">A computer science student</h3>
+<!--<img align="right" alt="codding" width="400" src="https://i.pinimg.com/736x/69/d0/0f/69d00f855faab118c17721dbf959d837.jpg">-->
+
+
+##  💫 About Me:
 
 - 🌱 I’m currently learning **Node.js**
 
 - 📫 How to reach me **nardoanteneh00@gmail.com**
 
 - ⚡ Fun fact **I'm Anime fun😊**
-
-# 💫 About Me:
-🌱I’m currently learning Node.js<br>📫 How to reach me nardoanteneh00@gmail.com<br>
-
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/_nard0s_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/nardosanteneh) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://www.instagram.com/_nard0s_https://www.x.com/_nard0s_) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:nardosanteneh00@gmail.com) 
