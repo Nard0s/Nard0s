@@ -46,7 +46,7 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=nard0s&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->rivate=false&layout=compact)
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ---
 
