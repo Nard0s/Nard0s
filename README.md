@@ -6,7 +6,7 @@
 
 ##  💫 About Me:
 
-- 🌱 I’m currently learning **Node.js**
+<!--- 🌱 I’m currently learning **Node.js**-->
 
 - 📫 How to reach me **nardoanteneh00@gmail.com**
 
